@@ -1,0 +1,4 @@
+[28-Sep-2016 11:10:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Hybrid_Auth::setUserStatus() in /home/educatec/public_html/acom/login-with.php on line 16
+[28-Sep-2016 11:13:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method Hybrid_Auth::setUserStatus() in /home/educatec/public_html/acom/login-with.php on line 17
+[28-Sep-2016 11:13:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Hybrid_Auth::setUserStatus() in /home/educatec/public_html/acom/login-with.php on line 17
+[28-Sep-2016 11:14:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Hybrid_Auth::setUserStatus() in /home/educatec/public_html/acom/login-with.php on line 17

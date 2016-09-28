@@ -1,0 +1,12 @@
+[28-Sep-2016 09:38:43 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:38:43 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:41:50 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:41:50 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:47:24 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:47:24 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:54:30 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:59:36 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 09:59:36 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 10:02:07 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
+[28-Sep-2016 10:02:07 Asia/Jakarta] PHP Notice:  Undefined index: oauth_token_secret in /home/educatec/public_html/acom/hybridauth/Hybrid/thirdparty/OAuth/OAuth1Client.php on line 85
